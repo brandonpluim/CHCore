@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CHCore' target in the 'CHCore' project.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
